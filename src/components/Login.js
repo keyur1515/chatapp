@@ -10,7 +10,7 @@ const Login = () => {
     <div id="login-page">
       <div id="card">
         <div>
-          <h2 class="glass">Welcome to Waver</h2>
+          <h2 className="glass">Welcome to Waver</h2>
         </div>
 
         <div id="btn-container">
